@@ -27,7 +27,7 @@
   },
   "resource_bundles": {
     "TagManagerResources": [
-      "Frameworks/GoogleTagManager.xcframework/Resources/**"
+      "Resources/**"
     ]
   },
   "source": {
@@ -37,5 +37,5 @@
   "vendored_frameworks": [
     "Frameworks/GoogleTagManager.xcframework"
   ],
-  "version": "7.4.2"
+  "version": "7.4.3"
 }
