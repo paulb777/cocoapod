@@ -25,11 +25,6 @@
   "platforms": {
     "ios": "9.0"
   },
-  "resource_bundles": {
-    "TagManagerResources": [
-      "Resources/TagManagerResources.bundle/TAGRuntime.js.dat"
-    ]
-  },
   "source": {
     "http": "https://dl.google.com/dl/firebase/ios/paul-test/GoogleTagManager-7.4.0.tar.gz"
   },
@@ -37,5 +32,5 @@
   "vendored_frameworks": [
     "Frameworks/GoogleTagManager.xcframework"
   ],
-  "version": "7.4.9"
+  "version": "7.4.10"
 }
