@@ -25,9 +25,11 @@
   "platforms": {
     "ios": "9.0"
   },
-  "resources": [
-    "Frameworks/GoogleTagManager.xcframework/Resources/TagManagerResources.bundle",
-  ],
+  "resource_bundles": {
+    "TagManagerResources": [
+      "Frameworks/GoogleTagManager.xcframework/Resources/**"
+    ]
+  },
   "source": {
     "http": "https://tsunghung.github.io/GoogleTagManager-7.4.0.tar.gz"
   },
