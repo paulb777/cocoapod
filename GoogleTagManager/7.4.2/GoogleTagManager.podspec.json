@@ -31,11 +31,11 @@
     ]
   },
   "source": {
-    "http": "https://tsunghung.github.io/GoogleTagManager-7.4.0.tar.gz"
+    "http": "https://dl.google.com/dl/firebase/ios/paul-test/GoogleTagManager-7.4.0.tar.gz"
   },
   "summary": "Google Tag Manager - create and update tags easily",
   "vendored_frameworks": [
     "Frameworks/GoogleTagManager.xcframework"
   ],
-  "version": "7.4.1"
+  "version": "7.4.2"
 }
